@@ -1,0 +1,21 @@
+4.cs enemy death
+5.cs camera
+7.cs platforming
+8.cs ?
+35.cs something with audio channels?
+37.cs something with aspect ratio?
+039.cs something with explosion prefab?
+42.cs adjusts health bar according to health
+57.cs item throwing?
+68.cs something that rotates (perhaps the windmill?)
+72.cs something with player death and position?
+77.cs something to do with death (and healing?)
+84.cs something with painting polygons and mouse position?
+85.cs loading and changing scenes
+88.cs mentions crouching?
+113.cs moving bg
+123.cs something with health (mentions otherHealth?)
+145.cs something with health and movement
+188.cs lever
+234.cs something with damage and being shot
+309.cs platforming but with double jumping

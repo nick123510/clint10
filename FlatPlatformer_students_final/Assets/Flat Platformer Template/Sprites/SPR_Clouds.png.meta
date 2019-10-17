@@ -1,7 +1,25 @@
 fileFormatVersion: 2
 guid: 33402811321402047a94f0188de033bf
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 4059491280455888059
+    second: SPR_Clouds_0
+  - first:
+      213: -5495922441520732548
+    second: SPR_Clouds_1
+  - first:
+      213: 5741020538942541068
+    second: SPR_Clouds_2
+  - first:
+      213: 5159923435344269520
+    second: SPR_Clouds_3
+  - first:
+      213: -6826172174388474727
+    second: SPR_Clouds_4
+  - first:
+      213: -7532030045384790705
+    second: SPR_Clouds_5
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +58,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +87,146 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SPR_Clouds_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 917
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c77b961ada4564fbaa65803627ca4c
+      internalID: 4059491280455888059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Clouds_1
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 327
+        width: 499
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd4db6588eccb43904b6bea3c2675d
+      internalID: -5495922441520732548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Clouds_2
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 317
+        width: 627
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2468f114b808b9449b249ed16252523
+      internalID: 5741020538942541068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Clouds_3
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 833
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22e0eee2e3f9e34f83abc449105bd5d
+      internalID: 5159923435344269520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Clouds_4
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 0
+        width: 546
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badea117bee9556418463aca1fc52a40
+      internalID: -6826172174388474727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Clouds_5
+      rect:
+        serializedVersion: 2
+        x: 1956
+        y: 4
+        width: 277
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f688abeac6e667c40bf78aafe36a1cc8
+      internalID: -7532030045384790705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

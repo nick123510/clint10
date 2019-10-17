@@ -1,7 +1,37 @@
 fileFormatVersion: 2
 guid: acd6249e18f238f4890bd7a9f964a958
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -5421811998642349456
+    second: SPR_Grass&Flower_Flowe0
+  - first:
+      213: 3035510756051476033
+    second: SPR_Grass&Flower_Flower1
+  - first:
+      213: 2466386240957939764
+    second: SPR_Grass&Flower_Flower2
+  - first:
+      213: -3530656731369636693
+    second: SPR_Grass&Flower_Flower3
+  - first:
+      213: -9216852342821049148
+    second: SPR_Grass&Flower_Flower4
+  - first:
+      213: -4642081927246146636
+    second: SPR_Grass&Flower_Flower5
+  - first:
+      213: -7494182079137833076
+    second: SPR_Grass&Flower_Grass0
+  - first:
+      213: -1503148806258265244
+    second: SPR_Grass&Flower_Grass1
+  - first:
+      213: -7248517712755429225
+    second: SPR_Grass&Flower_Grass2
+  - first:
+      213: 5199646938114340408
+    second: SPR_Grass&Flower_Grass3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -40,7 +70,7 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -69,9 +99,230 @@ TextureImporter:
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: SPR_Grass&Flower_Flowe0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 76
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af2e092752522f645a8520347e26ca9c
+      internalID: -5421811998642349456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Grass&Flower_Flower1
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 4
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127c218d09273e845b61ad2186d232b9
+      internalID: 3035510756051476033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Grass&Flower_Flower2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 4
+        width: 57
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52957458c7ff66246a52563eacfb3baf
+      internalID: 2466386240957939764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Grass&Flower_Flower3
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1
+        width: 41
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fd12ca688e7514a8acc5376eff841a
+      internalID: -3530656731369636693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Grass&Flower_Flower4
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 10
+        width: 77
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c393061ce299cc8469cccfc11f8953ed
+      internalID: -9216852342821049148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Grass&Flower_Flower5
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 17
+        width: 57
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c239b60b12b9864c9f8b30261ef593a
+      internalID: -4642081927246146636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Grass&Flower_Grass0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 173
+        width: 266
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e181076955200194790bea5bc28a173e
+      internalID: -7494182079137833076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Grass&Flower_Grass1
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 173
+        width: 265
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d633340e51c0c40bedebcb8511430f
+      internalID: -1503148806258265244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Grass&Flower_Grass2
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 173
+        width: 265
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa145694731e01045836ed716b214645
+      internalID: -7248517712755429225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Grass&Flower_Grass3
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 173
+        width: 266
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5171a1cb5d8b5f045831f46b8101a032
+      internalID: 5199646938114340408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

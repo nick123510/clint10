@@ -8,6 +8,45 @@ TextureImporter:
   - first:
       213: -7801110037365283515
     second: SPR_Bushes_Landscape
+  - first:
+      213: 1911353974056823421
+    second: SPR_Bushes_1
+  - first:
+      213: 5515943863419001856
+    second: SPR_Bushes_2
+  - first:
+      213: -1457009081468087633
+    second: SPR_Bushes_3
+  - first:
+      213: 5266391140526430819
+    second: SPR_Bushes_4
+  - first:
+      213: -3374056903477418210
+    second: SPR_Bushes_5
+  - first:
+      213: 5910464159922936262
+    second: SPR_Bushes_6
+  - first:
+      213: -6903887933118116945
+    second: SPR_Bushes_7
+  - first:
+      213: 24709693599046767
+    second: SPR_Bushes_8
+  - first:
+      213: 7869532211297544952
+    second: SPR_Bushes_9
+  - first:
+      213: -3767771361367142831
+    second: SPR_Bushes_10
+  - first:
+      213: -1951149954984410765
+    second: SPR_Bushes_11
+  - first:
+      213: -7457501931853336325
+    second: SPR_Bushes_12
+  - first:
+      213: -64561525473720471
+    second: SPR_Bushes_13
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -94,8 +133,29 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 1063
+        y: 1241
         width: 578
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fca456bdf5cd84c80331c029b4ed86
+      internalID: 5154535891481169945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_1
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 1231
+        width: 798
         height: 135
       alignment: 0
       pivot: {x: 0, y: 0}
@@ -104,20 +164,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 6331e15c43772b244904be22c6caaef3
-      internalID: 5154535891481169945
+      spriteID: eb4dc22537f3c314b9d9acb913efce3c
+      internalID: 1911353974056823421
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: SPR_Bushes_Landscape
+      name: SPR_Bushes_2
       rect:
         serializedVersion: 2
-        x: 15
-        y: 0
-        width: 1294
-        height: 125
+        x: 0
+        y: 1063
+        width: 578
+        height: 134
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -125,8 +185,239 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dec8b60dc3378b14cb3960013628f2ae
-      internalID: -7801110037365283515
+      spriteID: 0eaa41da9f76bd342b1007050481e97d
+      internalID: 5515943863419001856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_3
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 1050
+        width: 798
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d6fc15fb01175147bf6d4faf93167d5
+      internalID: -1457009081468087633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 841
+        width: 578
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e8d1aa0f3ccb884f91398c321d7f7ac
+      internalID: 5266391140526430819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_5
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 842
+        width: 578
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e60f947b26a1b24585c853c98949010
+      internalID: -3374056903477418210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 619
+        width: 578
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ed77c82076ed840aab771ff9ee4e99
+      internalID: 5910464159922936262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_7
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 620
+        width: 578
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74eb752eebc76a44a97adaa2bc95afa7
+      internalID: -6903887933118116945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_8
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 438
+        width: 375
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7df5bbdbf838574a818fa033dc40467
+      internalID: 24709693599046767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_9
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 433
+        width: 305
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6c04a94dd7bb14d892bf7ef21c0578
+      internalID: 7869532211297544952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_10
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 345
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca520cf0facf96842bbe59a19c1cdc82
+      internalID: -3767771361367142831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_11
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 223
+        width: 375
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2838b6b7883f84e9b9cf85c6a6f90b
+      internalID: -1951149954984410765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_12
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 249
+        width: 305
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80859d349dcc86f429661ed57a8974f8
+      internalID: -7457501931853336325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPR_Bushes_13
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 1292
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1880e8aa8843c1546994ac92cd54a9aa
+      internalID: -64561525473720471
       vertices: []
       indices: 
       edges: []

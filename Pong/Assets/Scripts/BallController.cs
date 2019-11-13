@@ -13,6 +13,9 @@ public class BallController : MonoBehaviour
     */
     public static BallController ballRef;
 
+    public string goal1 = "Goal_Player1";
+    public string goal2 = "Goal_Player2";
+
     public GameObject hitGoalEffect;
     public Rigidbody2D _rigidbody2D;
 
@@ -47,10 +50,10 @@ public class BallController : MonoBehaviour
     void OnTriggerEnter2D ( Collider2D hitObject )
     {
         //If we hit player 1's goal then player 2 scores.
-        if (hitObject.gameObject.name == "Goal_Player1")
+        if (hitObject.gameObject.name == goal1)
             GameManager.Score(GameManager.Player.Player2);
         //If we hit player 2's goal then player 1 scores.
-        else if (hitObject.gameObject.name == "Goal_Player2")
+        else if (hitObject.gameObject.name == goal2)
             GameManager.Score(GameManager.Player.Player1);
     }
 }

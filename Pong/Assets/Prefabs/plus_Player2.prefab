@@ -29,13 +29,13 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 125848404878248234}
-  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
+  m_LocalRotation: {x: -0, y: -0, z: 0.7001725, w: -0.71397376}
   m_LocalPosition: {x: 38.01, y: 11.38, z: 0}
-  m_LocalScale: {x: 3, y: 11, z: 13.500001}
+  m_LocalScale: {x: 7.8941517, y: 11.18694, z: 10.598154}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 271.11798}
 --- !u!212 &125848404878248237
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -74,8 +74,8 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 1
-  m_Sprite: {fileID: 21300000, guid: 5f088ddb6dfd6ec439325aa6bf84b296, type: 3}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
+  m_Sprite: {fileID: 21300000, guid: 6fe4318ddd4e50a49b5b576ab17ed39a, type: 3}
+  m_Color: {r: 0.9561123, g: 1, b: 0.504717, a: 1}
   m_FlipX: 0
   m_FlipY: 0
   m_DrawMode: 0
@@ -141,7 +141,7 @@ PolygonCollider2D:
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
-    oldSize: {x: 1, y: 1}
+    oldSize: {x: 1.36, y: 0.52}
     newSize: {x: 1, y: 1}
     adaptiveTilingThreshold: 0.5
     drawMode: 0
@@ -149,15 +149,15 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
-    - - {x: 0.5, y: 0.25}
-      - {x: 0.425, y: 0.425}
-      - {x: 0.32500002, y: 0.5}
-      - {x: -0.5, y: 0.5}
-      - {x: -0.5, y: -0.5}
-      - {x: 0.3, y: -0.5}
-      - {x: 0.375, y: -0.45000002}
-      - {x: 0.4, y: -0.4}
-      - {x: 0.5, y: -0.25}
+    - - {x: 0.7088353, y: 0.1529438}
+      - {x: 0.50187624, y: 0.18510263}
+      - {x: -0.1027497, y: 0.29900444}
+      - {x: -0.4768037, y: 0.22156002}
+      - {x: -0.76180506, y: 0.06919658}
+      - {x: -0.7060845, y: -0.15638341}
+      - {x: -0.003480255, y: -0.29455692}
+      - {x: 0.5461785, y: -0.24111648}
+      - {x: 0.693267, y: -0.13430032}
 --- !u!82 &125848404878248225
 AudioSource:
   m_ObjectHideFlags: 0
@@ -168,7 +168,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: b7e453d2341190f46ac8c05f30a5474c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 42dfef879ab50644bb0c9d1008910abf, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
